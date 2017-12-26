@@ -1,6 +1,28 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
+## 25 Dec 2017
+_projects:_ "Rudolph" - a fun webpage for a friend 
+
+_topics:_ Code Review
+
+_progress:_ Due to the holiday, I spent this time cleaning up the HTML and styles documents. Cleaned up project folders and created a package.json file. 
+
+
+## 24 Dec 2017
+_projects:_ "Rudolph" - a fun webpage for a friend 
+
+_topics:_ jQuery trivia game
+
+_progress:_ Incorporated a small trivia game that prevents the user from proceeding to th e next section until all questions have been answered. 
+
+## 23 Dec 2017
+_projects:_ "Rudolph" - a fun webpage for a friend 
+
+_topics:_  CSS Modals // Slideshows 
+
+_progress:_ Created a photography slideshow that displays within the modals built on Dec 22. 
+
 ## 22 Dec 2017
 _projects:_ "Rudolph" - a fun webpage for a friend 
 
