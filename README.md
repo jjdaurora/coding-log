@@ -1,6 +1,17 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
+
+## 26 - 28 Dec 2017
+_projects:_ "Rudolph" - a fun webpage for a friend 
+
+_topics:_ Project overhaul // CSS Grid
+
+_progress:_ After reviewing my code, I realized that I needed to make a lot of changes in order to achieve the project's goal. This decision, inevitably, led me down a rabbit hole that I never quite climed out of. I did learn some great CSS Grid basics. My takeaway from this project is that some projects are supposed to suck. In this case, I needed to waste a lot of time messing around with div arrangements and columns/rows layout in order to get a feel for CSS grid. My next step is to take a class on CSS Grid and truly get the hang of it.
+
+I also implemented some nice jQuery easing features into the project's scroll functionality. Yes, I know I abandoned pure JS for this project. But, due to the amount of work put into CSS Grid, I gave myself a break. 
+
+_time spent:_ ~10 hours
 ## 25 Dec 2017
 _projects:_ "Rudolph" - a fun webpage for a friend 
 
