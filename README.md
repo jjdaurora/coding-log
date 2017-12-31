@@ -1,6 +1,22 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
+## 30 - 31 Dec 2017
+_projects:_ LIRI - a command line language recognition tool ran on node.js
+
+_topics:_ Twitter / Spotify npm packages 
+
+_progress:_  
+
+	1) Twitter - posts 20 of my most recent tweets on command; 
+	2) Spotify - searches a song's details by searching the song's title
+
+## 29 Dec 2017
+_projects:_ "Side Games and activities"
+
+_topics:_ Javascript practice // scoping // session vs local Storage 
+
+_progress:_  Sometimes you just don't have time to code, especially when you're travelling. That doesn't mean you can't _practice_ coding, though, which is what I did today. I use apps Py and SoloLearn to pratice exercises when I'm crunched for time but still want to keep the coding muscles streteched. In this case, I read a number of posts on sesison vs localStorage and messed around with a few JS algorithm challenges on SoloLearn. 
 
 ## 26 - 28 Dec 2017
 _projects:_ "Rudolph" - a fun webpage for a friend 
