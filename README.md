@@ -1,6 +1,13 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
+## 1 - 2 Dec 2018
+_projects:_ LIRI - a command line language recognition tool ran on node.js
+
+_topics:_ Spotify npm packages // switch case functions + structuring code
+_progress:_   Spotify --  after reading about the virtues of expressive and clean code, I continued my work from 30 Dec. With the new knowledge instilled in my impressionable young developer mind, it didn't take much for me to reaize my working code was garbage and begin architecting something better. To begin, I decided to employ a switch case function in the beginning of my code. 
+
+This code structure provides a more meaningful context to someone reading it. The switch case serves almost like a table of reference, conveying succintly what the code will execute. There is something about Twitter, something about Spotify, and something about a movide database. If you want to learn how these things work, just take a look at the corresponding functions beneath them. The code is like a book. 
 ## 30 - 31 Dec 2017
 _projects:_ LIRI - a command line language recognition tool ran on node.js
 
