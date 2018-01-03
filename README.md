@@ -1,7 +1,7 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
-## 1 - 2 Dec 2018
+## 1 - 2 Jan 2018
 _projects:_ LIRI - a command line language recognition tool ran on node.js
 
 _topics:_ Spotify npm packages // switch case functions + structuring code
