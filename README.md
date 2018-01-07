@@ -10,7 +10,7 @@ _topics:_ package.json file // omdb database movie calls
 
 _progress:_    
 
-[Learn SaaS at]("Level Up Tuts" https://www.youtube.com/watch?v=fbVD32w1oTo&list=PL2CB1F80266E986EA)
+[Learn SaaS at](https://www.youtube.com/watch?v=fbVD32w1oTo&list=PL2CB1F80266E986EA)
 
 ## 1 - 2 Jan 2018
 _projects:_ LIRI - a command line language recognition tool ran on node.js
