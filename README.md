@@ -1,6 +1,17 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
+## 10 Jan 2018
+_projects:_ 
+- mySQL 
+_topics:_ SQL Basics 
+
+_progress:_    
+
+In my pursuit of becoming a full-stack developer, I've finally made it SQL! The first thing I did: download Sequel Pro. The next thing I did: learn important mySQL basics such as:
+
+- CREATE, USE, PRIMARY KEYS, AUTO INCREMENTING INTS, AND MORE 
+
 ## 2 - 6 Jan 2018
 _projects:_ 
 - LIRI - a command line language recognition tool ran on node.js
