@@ -1,9 +1,25 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
+## 11 Jan 2018
+_projects:_ 
+-[CLI Constructor Hangman](https://github.com/jjdaurora/constructor-hangman)
+
+_topics:_ Constructor Obkects 
+
+_progress:_    
+
+- Opened a repo and cloned a local one to my CPU. 
+- Began pseudocode and architecing game logic. 
+- Wrote 2 constructor objects containing properties and methods essential to the app's logic: Words and Letters.
+- Words: Used to create an object representing the current word the user is attempting to guess. 
+- Letters: used to display the letter of each word or a blank "_" if the letter has not yet been guessed.
+
+_thoughts:_ I have found that games, even the simple ones, are some of the hardest things to program. I'm putting everything I have into this project to improve those JS skills! 
+
 ## 10 Jan 2018
 _projects:_ 
-- mySQL 
+- mySQL practice
 _topics:_ SQL Basics 
 
 _progress:_    
