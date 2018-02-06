@@ -1,6 +1,31 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
+## 5 Feb 2018
+_projects:_ 
+-[Sequelize]
+
+_topics:_ Building Sequelize models, validations, and buidling basic CRUD Applications.
+
+_progress:_    
+
+- Read through a bunch of documentation on validations. Fun! 
+- Migrated a project ORM to Sequelize by upating API GET and POST routes and creating config.json
+
+## 17 Jan 2018
+_projects:_ 
+-[CLI Constructor Hangman](https://github.com/jjdaurora/constructor-hangman)
+
+_topics:_ Constructor Obkects 
+
+_progress:_    
+
+- Completed Word constructor, which is basically responsible for the gameplay functionality of the hanngman words.
+- Struggled with figuring out how to determine the state of each word's letter, i.e. how to write logic that understands whether each letter has been guessed yet. If no, post a blank space ("_"), if yes post the letter itself.
+- Implemented some things I've never learned before, like Javascript .map
+- Failed at implementing other new things, like array.every...
+- Was able to accomplish the aforementioned letter issue by creating a handy dandy counter variable, which keeps track of the amount of visible letters and compares agains the length of the gameplay word. 
+
 ## 14 Jan 2018
 _projects:_ 
 -[CLI Constructor Hangman](https://github.com/jjdaurora/constructor-hangman)
