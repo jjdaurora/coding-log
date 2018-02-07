@@ -1,6 +1,16 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
+## 6 Feb 2018
+_projects:_ 
+-[Express FriendFinder App]
+
+_topics:_ Dealing with POST errors, general debugging
+
+_progress:_ Today's coding exercise resulted in 1.5 hours of finding the issue with my POST route, which I discovered was due to my server file not requiring body-parser. Oh, the joys of little mistakes causing huge problems! This was a really good lesson for me as dev, though, to demonstrate how in many cases, where you can't find what's wrong in the code, there was probably something small I didn't define in the project's setup.
+
+- Read through a bunch of documentation on validations. Fun! 
+- Migrated a project ORM to Sequelize by upating API GET and POST routes and creating config.json
 ## 5 Feb 2018
 _projects:_ 
 -[Sequelize]
