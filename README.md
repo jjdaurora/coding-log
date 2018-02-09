@@ -1,6 +1,14 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
+## 7-9 Feb 2018
+_projects:_ 
+-[ORM]
+
+_topics:_ Building a basic to-do app using my first ORM model 
+
+_progress:_ Figured out how to set up my directories correctly and build the data models I want. This really is not easy -- I enjoy the structure and documentation offered by Sequelize -- but it's part of the journey of being a wbe developer! Check out the repo here: (https://github.com/jjdaurora/burger).
+
 ## 6 Feb 2018
 _projects:_ 
 -[Express FriendFinder App]
