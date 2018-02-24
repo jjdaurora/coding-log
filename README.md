@@ -1,7 +1,7 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
-#@ 10 - 23 Feb 2018
+## 10 - 23 Feb 2018
 
 _projects:_
 _[Stopify: A Parody Version of Spotify]
