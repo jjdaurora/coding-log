@@ -1,10 +1,15 @@
 # coding-log
 A public log of my progress as a developer in 2018.
+#25 - 26 Feb
+
+_projects:_
+CSS Grid layouts practice
+
 
 ## 10 - 23 Feb 2018
 
 _projects:_
-_[Stopify: A Parody Version of Spotify]
+Stopify: A Parody Version of Spotify
 
 _progress:_ These past few weeks, I've been working on my first full stack application. The app is called Stopify (for now), a parody version of Spotify. The app is designed to play music you hate, but it's all just for fun! Here are the technologies used: 
 
