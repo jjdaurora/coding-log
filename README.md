@@ -1,5 +1,20 @@
 # coding-log
 A public log of my progress as a developer in 2018.
+
+#27 Feb
+
+_projects:_
+Stopify (Spotify API project)
+
+_progress:_
+I have a protoype function that I use to make various GET request to Spotify's API. Somehow, when I make a call  to resolve the data of a particular track, it's impossible to pass the resolved data into Handlebars and onto the live document. This is bewildering, and I'm starting to lose my hair. 
+
+I had a breakthrough, though. The issue seems to be that Handlebars is rendering data from within a specific of the resolved dataset I mentioned above. I'm not sure how this is the class -- as I am console logging the resolved data and am seeing everything as expected -- but I believe it's due to another function that receives an artist's genre. I'm troubleshooting and will figure it out.
+
+I. AM. STRUGGLING.
+
+But that's okay. 
+
 #25 - 26 Feb
 
 _projects:_
