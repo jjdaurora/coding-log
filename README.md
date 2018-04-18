@@ -6,7 +6,6 @@ _There is a large break between the end of February to the middle of April. This
 [Culture Stack] (https://github.com/jjdaurora/culture-stack)
 
 #17 Apr
-
 _projects:_
 Semantic UI, Personal Portfolio, Client Work 
 
@@ -17,7 +16,6 @@ _progress:_
 - Began compiling design concepts for a client's site and e-commerce store. 
 
 #27 Feb
-
 _projects:_
 Stopify (Spotify API project)
 
@@ -31,13 +29,11 @@ I. AM. STRUGGLING.
 But that's okay. 
 
 #25 - 26 Feb
-
 _projects:_
 CSS Grid layouts practice
 
 
 ## 10 - 23 Feb 2018
-
 _projects:_
 Stopify: A Parody Version of Spotify
 
