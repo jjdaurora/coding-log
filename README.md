@@ -1,6 +1,21 @@
 # coding-log
 A public log of my progress as a developer in 2018.
 
+_There is a large break between the end of February to the middle of April. This time gap does not represent an abstaintion from coding. Rather, I was so deep in coding that I failed to update this record! For a glimpse at what I was doing between February 27 - April 15, please see the links below:_
+
+[Culture Stack] (https://github.com/jjdaurora/culture-stack)
+
+#17 Apr
+
+_projects:_
+Semantic UI, Personal Portfolio, Client Work 
+
+_progress:_
+
+- Fixed issues in my Gulp scripts that were preventing my Less compilation from running on "Gulp Watch" 
+- Refactored my portfolio project into a Sass starter pack project via Travery Media (https://github.com/bradtraversy/sass_starter_pack)
+- Began compiling design concepts for a client's site and e-commerce store. 
+
 #27 Feb
 
 _projects:_
