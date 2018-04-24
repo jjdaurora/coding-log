@@ -5,6 +5,16 @@ _There is a large break between the end of February to the middle of April. This
 
 [Culture Stack] (https://github.com/jjdaurora/culture-stack)
 
+# 23 Apr
+_projects:_
+Personal Portfolio
+
+_progress:_
+
+- Added h1 to navbar
+- Refactored styles into Sass
+- Navbar design implementation is almost done at all breakpoints
+
 # 17 Apr
 _projects:_
 Semantic UI, Personal Portfolio, Client Work 
