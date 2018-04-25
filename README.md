@@ -5,6 +5,19 @@ _There is a large break between the end of February to the middle of April. This
 
 [Culture Stack] (https://github.com/jjdaurora/culture-stack)
 
+# 24 Apr
+_projects:_
+Client Work - Carmella DiMella 
+
+_progress:_
+
+- Determined technology stack and decided on the following: GraphCMS, Gatsby, Snipcart (e-commerce), Styled Components 
+- Built basic Gatsby template using GraphCMS boilerplate project
+
+_note:_
+
+Really looking forward to building out this project using GraphCMS and Gatsby. I'm new to GraphQL and React SSGs, so this should be fun!
+
 # 23 Apr
 _projects:_
 Personal Portfolio
