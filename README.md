@@ -3,7 +3,20 @@ A public log of my progress as a developer in 2018.
 
 _There is a large break between the end of February to the middle of April. This time gap does not represent an abstaintion from coding. Rather, I was so deep in coding that I failed to update this record! For a glimpse at what I was doing between February 27 - April 15, please see the links below:_
 
-[Culture Stack] (https://github.com/jjdaurora/culture-stack)
+# 25 - APR - 08 MAY
+_projects:_
+Client Work - Carmella DiMella 
+Electron Markdown Note Project
+Preparing for my first Hackathon
+Completed a very basic version of my [personal page] (https://jjdaurora.io)
+
+_progress:_
+
+-
+
+_note:_
+
+Really looking forward to building out this project using GraphCMS and Gatsby. I'm new to GraphQL and React SSGs, so this should be fun!
 
 # 24 Apr
 _projects:_
